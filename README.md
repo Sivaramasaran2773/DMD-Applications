@@ -1,7 +1,9 @@
 # DMD-Applications
 Explore two dynamic mode decomposition (DMD) applications in this repository: 
 1) Foreground and Background separation.
+   You can run the matlab file by giving the input videos of your choice which are available in the above respective folders 
 2) Characterization of chemical reactor mixing.
+   You can run the python file by giving the input video beaker.mov which is available in the above respective folders.
 
 ### Pipeline for Foreground and Background separation:
 
